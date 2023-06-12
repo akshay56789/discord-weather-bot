@@ -1,4 +1,4 @@
-# Weather-bot
+# discord-weather-bot
 The Discord Weather Bot is a Python-based bot that provides real-time weather information directly within Discord servers. It utilizes the WeatherAPI.com API to fetch weather data and delivers it to users in a convenient and interactive manner.
 
 <h3>Features</h3>
