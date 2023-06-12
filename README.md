@@ -10,7 +10,8 @@ The Discord Weather Bot is a Python-based bot that provides real-time weather in
 
 <h3>Commands</h3>
 To request the weather forecast, use the following command:
-<p>/city <city-name><p>
+
+/city [city-name]
 
 <h3>Contributing</h3>
 Contributions to this project are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
